@@ -12,8 +12,6 @@
   <a href="https://www.zhihu.com/people/zhi-han-zhu-35"><img src="https://img.shields.io/badge/Zhihu-知乎-0084FF" /></a>&emsp;
   <!-- visitor -->
   <img src="https://komarev.com/ghpvc/?username=Vailant7&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-  <!-- wakatime -->
-  <a href="https://wakatime.com/@Vailant7"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
@@ -74,54 +72,6 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Vailant7&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
 </picture>
 </td></tr> -->
-<tr><td>
-### 📊 WakaTime
-<!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-97%20hrs%2044%20mins-blue?style=flat)
-**I'm a Night 🦉** 
-```text
-🌞 Morning                456 commits         █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-🌆 Daytime                643 commits         ███████░░░░░░░░░░░░░░░░░░   26.89 % 
-🌃 Evening                688 commits         ███████░░░░░░░░░░░░░░░░░░   28.77 % 
-🌙 Night                  604 commits         ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-```text
-Monday                   364 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Tuesday                  324 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-Wednesday                424 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-Thursday                 302 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-Friday                   379 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Saturday                 264 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Sunday                   334 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-```
-📊 **This Week I Spent My Time On** 
-```text
-🕑︎ Time Zone: Asia/Shanghai
-💬 Programming Languages: 
-Other                    44 mins             █████████████████████████   100.00 % 
-🔥 Editors: 
-Grok Build               44 mins             █████████████████████████   100.00 % 
-💻 Operating System: 
-Mac                      44 mins             █████████████████████████   100.00 % 
-```
-🤖 **AI Coding This Week** 
-```text
-⏱ AI Coding Time: 44 mins (100.0%)
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-🔤 40,746,498 Input Tokens, 295,053 Output Tokens
-💵 $83.26 Estimated AI Cost This Week
-🧠 6 AI Sessions, 13 AI Prompts
-Grok                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 61 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
-```
- Last Updated on 15/10/2026 02:01:37 UTC
-<!--END_SECTION:waka-->
-</td></tr>
 </table>
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 <div align="center">
@@ -159,12 +109,6 @@ Grok                     0 lines             ░░░░░░░░░░░�
 </div>
 <!-- <div><img src="https://github-profile-trophy.vercel.app/?username=Vailant7&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
 </div> -->
-<table>
-  <tr>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>
-  </tr>
-</table>
 </div>
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 <div align="center" >
