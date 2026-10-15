@@ -1,10 +1,12 @@
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小黎同学祝您今天愉快!&center=true&size=27)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1500&width=500&lines=%E5%B0%8F%E9%BB%8E%E5%90%8C%E5%AD%A6%E7%A5%9D%E4%BD%A0%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83%EF%BC%81&center=true&size=30&color=00BFFF%2C0066FF%2C00FFCC)](https://git.io/typing-svg)
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="180px" />
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" height="180" />
 </picture>
+</p>
 <div>&nbsp;</div>
 <div>
   <a href="https://space.bilibili.com/381641516?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
