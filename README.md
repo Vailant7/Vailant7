@@ -12,6 +12,7 @@
   <a href="https://space.bilibili.com/381641516?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
   <a href="https://www.douyin.com/user/self?from_tab_name=main"><img src="https://img.shields.io/badge/Douyin-抖音-000000" /></a>&emsp;
   <a href="https://www.zhihu.com/people/zhi-han-zhu-35"><img src="https://img.shields.io/badge/Zhihu-知乎-0084FF" /></a>&emsp;
+  <a href="https://lol.qq.com/main.shtml"><img src="https://img.shields.io/badge/League%20of%20Legends-%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F-C89B3C?logo=riotgames&logoColor=fff" /></a>&emsp;
   <!-- visitor -->
   <img src="https://komarev.com/ghpvc/?username=Vailant7&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
 </div>
