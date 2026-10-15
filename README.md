@@ -48,15 +48,18 @@
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 </tr></td>
 <tr><td>
-### 📃 Recent Blog
+### 🎯 408 考研
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
-<!-- feed start -->
-- Jan 01 - [2025 → 2026，给时光以生命，待岁月以温柔！](https://blog.guoqi.dev/posts/2025/)
-- Mar 18 - [昆仑巢「疯狂星期六」，没有人是一座孤岛～](https://blog.guoqi.dev/posts/kun-lun-chao/)
-- Mar 10 - [你好，北京！你好，原则科技！](https://blog.guoqi.dev/posts/yuan-ze-ke-ji/)
-- Feb 20 - [行则将至，未来可期，和 2023 好好说声再见吧！](https://blog.guoqi.dev/posts/2023/)
-- Feb 16 - [西藏之旅｜青春没有售价，火车直达拉萨！](https://blog.guoqi.dev/posts/xi-zang/)
-<!-- feed end -->
+<p>&emsp;&emsp;正在备战计算机专业基础综合（408），啃下数据结构、计算机组成原理、操作系统、计算机网络四大经典教材。脚踏实地，厚积薄发，一战成硕！</p>
+<p align="center">
+  <img src="./assets/images/data-structure.jpg" width="110" />&emsp;
+  <img src="./assets/images/computer-organization.jpg" width="110" />&emsp;
+  <img src="./assets/images/operating-system.jpg" width="110" />&emsp;
+  <img src="./assets/images/computer-network.jpg" width="110" />
+</p>
+<p align="center">
+  <sub>数据结构 &emsp;&emsp; 计算机组成原理 &emsp;&emsp; 操作系统 &emsp;&emsp; 计算机网络</sub>
+</p>
 </td></tr>
 <!-- <tr><td>
 ### 📊 WakaTime
