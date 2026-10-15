@@ -52,7 +52,7 @@
 <tr><td>
 ### 🎯 408 考研
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
-<p>&emsp;&emsp;正在备战计算机专业基础综合（408），啃下数据结构、计算机组成原理、操作系统、计算机网络四大经典教材。脚踏实地，厚积薄发，一战成硕！</p>
+<p>&emsp;&emsp;408 Not Found，408 的答案我一定要得到，别让自己留遗憾，真男人只对掏 0854！</p>
 <p align="center">
   <img src="./assets/images/data-structure.jpg" width="110" />&emsp;
   <img src="./assets/images/computer-organization.jpg" width="110" />&emsp;
