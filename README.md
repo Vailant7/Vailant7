@@ -37,11 +37,13 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 <p>&emsp;&emsp;408 Not Found，408 的答案我一定要得到，别让自己留遗憾，真男人只对掏 0854！</p>
 <p align="center">
+  <img src="./assets/images/408-meme.jpeg" width="220" />
+</p>
+<p align="center">
   <img src="./assets/images/data-structure.jpg" width="110" />&emsp;
   <img src="./assets/images/computer-organization.jpg" width="110" />&emsp;
   <img src="./assets/images/operating-system.jpg" width="110" />&emsp;
-  <img src="./assets/images/computer-network.png" width="110" />&emsp;&emsp;
-  <img src="./assets/images/408-meme.jpeg" width="160" />
+  <img src="./assets/images/computer-network.png" width="110" />
 </p>
 <p align="center">
   <sub>数据结构 &emsp;&emsp; 计算机组成原理 &emsp;&emsp; 操作系统 &emsp;&emsp; 计算机网络</sub>
