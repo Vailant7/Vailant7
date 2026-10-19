@@ -35,7 +35,7 @@
 <tr><td>
 ### 🎯 408 考研
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
-<p>&emsp;&emsp;408 Not Found，408 的答案我一定要得到，别让自己留遗憾，真男人只对掏 0854！</p>
+<p>&emsp;&emsp;往事皆为 404 Not Found，唯有 408 的真正答案，我终将 git fetch 到手！</p>
 <p align="center">
   <img src="./assets/images/408-meme.jpeg" width="220" />
 </p>
