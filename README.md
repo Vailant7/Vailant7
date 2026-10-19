@@ -40,7 +40,8 @@
   <img src="./assets/images/data-structure.jpg" width="110" />&emsp;
   <img src="./assets/images/computer-organization.jpg" width="110" />&emsp;
   <img src="./assets/images/operating-system.jpg" width="110" />&emsp;
-  <img src="./assets/images/computer-network.png" width="110" />
+  <img src="./assets/images/computer-network.png" width="110" />&emsp;&emsp;
+  <img src="./assets/images/408-meme.jpeg" width="160" />
 </p>
 <p align="center">
   <sub>数据结构 &emsp;&emsp; 计算机组成原理 &emsp;&emsp; 操作系统 &emsp;&emsp; 计算机网络</sub>
